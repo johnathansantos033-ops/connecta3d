@@ -113,3 +113,80 @@ Quando o usuário pedir skill nova:
 4. Se a skill precisar de arquivos de apoio (templates, exemplos),
    criar dentro da pasta da skill
 5. Seguir o fluxo da skill-creator nativa do Claude Code
+
+---
+
+# Connecta3D — configuração do negócio
+
+> Aplicado pelo `/instalar` em 23/08/2026. Perfil escolhido: **empresa**.
+> Adaptado à realidade da operação (dois sócios, sem setores formais).
+
+## O que é esse workspace
+
+Operação da Connecta3D. Tudo que a loja produz — conteúdo, catálogo de
+produto, site, atendimento e material de venda — mora aqui.
+
+**Estrutura de pastas:**
+- `_memoria/` — quem é a empresa, como falamos, foco atual
+- `identidade/` — marca aplicada em tudo que o sistema gera (logo, cores, fontes)
+- `marketing/` — posts, campanhas, conteúdo do Instagram
+- `saidas/` — documentos e entregas pontuais
+- `dados/` — arquivos a analisar (exports de venda, planilhas)
+- `scripts/` e `templates/` — apoio do próprio MazyOS
+
+*(Criar conforme a necessidade aparecer: `site/` para o projeto do site,
+`produtos/` para a ficha de cada produto do catálogo.)*
+
+## Sobre a empresa
+
+Connecta3D é uma loja de impressão 3D em início de operação, tocada por dois
+sócios: Johnathan à frente do comercial e do marketing, e o sócio operando as
+impressões. Vende acessórios e peças impressas em 3D para consumidor final —
+porta-latas, porta-chaves temáticos e projetos individuais sob encomenda — com
+envio para todo o Brasil.
+
+Canais hoje: Instagram `@connecta_3d` (principal), Marketplace do Facebook,
+Shopee e Mercado Livre. Todo pedido fecha no direct ou no WhatsApp.
+
+## Frentes de trabalho
+
+- **Conteúdo e Instagram** — post de produto novo, legenda, carrossel
+- **Atendimento e vendas** — resposta de direct e WhatsApp (cor, prazo, pronta entrega)
+- **Catálogo e site** — prioridade atual, ver `_memoria/estrategia.md`
+- **Marketplaces** — anúncios no Shopee, Mercado Livre e Facebook
+
+## O que mais fazemos aqui
+
+- Post e legenda de produto novo para o Instagram
+- Mensagens de abordagem e resposta de direct/WhatsApp
+- Ficha de produto (fotos, descrição, aplicação, cores, prazo)
+- Material do site da loja
+
+## Tom de voz
+
+Curto, direto, informal, sem rodeio — jeito de quem vende no direct.
+No 1:1, uma pergunta fechada por mensagem: *"Vai querer o porta chaves na cor
+cinza mesmo ou vc tem outra cor em mente?"*. Na legenda, mais animado, com
+emoji e as cores listadas. Detalhe completo em `_memoria/preferencias.md`.
+
+Evitar: textão, formalidade de ofício ("prezado", "caro cliente"), jargão de
+marketing e mensagem que termina sem pergunta.
+
+## Regras do sistema
+
+- Todo texto para cliente deve deixar claro **cor disponível, prazo e pronta entrega**
+- Toda peça visual respeita `identidade/design-guide.md` — preto + laranja `#F26B21`
+- Post e legenda do Instagram salvar em `marketing/`
+- Material e conteúdo do site salvar em `site/` (criar quando o projeto começar)
+- Link de contato sempre aponta para o WhatsApp; link social sempre para `@connecta_3d`
+
+## Ferramentas conectadas
+
+- [ ] Notion
+- [ ] Gmail
+- [ ] Google Calendar
+- [ ] Google Ads
+- [ ] Meta Ads
+- [ ] Slack
+
+*(Marcar conforme for instalando os MCPs)*
