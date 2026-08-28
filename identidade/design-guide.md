@@ -20,6 +20,17 @@
 
 - **Cor proibida:** *(nenhuma definida ainda)*
 
+### Paleta do site (identidade premium)
+
+> Desde 28/08/2026, o site institucional usa uma segunda paleta — o Instagram e o
+> conteúdo de venda direta continuam 100% laranja `#F26B21`.
+
+- **Fundo:** preto quente `#0B0B0A`; cards `#151412`; superfícies elevadas `#1B1A17`
+- **Cor de destaque / CTA no site:** dourado champagne `#C6A15B` (hover/realce `#E8D2A0`)
+- **Texto:** branco quente `#F6F2E9`; texto secundário `#A89F8F`; texto fraco (legendas/specs) `#8A8171`
+- **Bordas:** `#2A2722` (fina) e `#3A352C` (forte, hover)
+- Botão de WhatsApp continua o verde oficial em ambas as paletas
+
 ---
 
 ## Tipografia
@@ -29,6 +40,10 @@
 - **Corpo, subtítulos e botões:** a mesma família em peso regular/medium.
 
 - **Peso do título:** Bold / 700, caixa alta, com espaçamento entre letras levemente aberto.
+
+- **Site institucional (exceção):** títulos em Fraunces (serifada, clima de peça de
+  coleção/luxo), corpo em Inter, e specs/legenda técnica dos produtos em IBM Plex
+  Mono. Caixa alta só nos rótulos pequenos (eyebrow), não nos títulos grandes.
 
 ---
 
@@ -53,8 +68,10 @@ são pretas com peça colorida, e é isso que vende.
 
 ## O que NUNCA fazer
 
-- Trocar o laranja da marca por outro tom de laranja/amarelo
-- Colocar o logo colorido sobre fundo laranja (some)
+- Trocar o laranja da marca por outro tom de laranja/amarelo **no Instagram e no
+  conteúdo de venda** — a exceção documentada é o site institucional, que usa
+  dourado champagne de propósito (ver "Paleta do site" acima)
+- Colocar o logo colorido sobre fundo laranja ou dourado (some)
 - Poluir o visual do produto — a peça impressa é o herói do quadro
 
 ---
